@@ -1,0 +1,20 @@
+[
+    { "queryLength": 25, "specialChars": 2, "hasKeywords": 0, "label": 0 },
+    { "queryLength": 85, "specialChars": 10, "hasKeywords": 1, "label": 1 },
+    { "queryLength": 150, "specialChars": 5, "hasKeywords": 1, "label": 1 },
+    { "queryLength": 40, "specialChars": 1, "hasKeywords": 0, "label": 0 },
+    { "queryLength": 120, "specialChars": 3, "hasKeywords": 1, "label": 1 },
+    { "queryLength": 60, "specialChars": 0, "hasKeywords": 0, "label": 0 },
+    { "queryLength": 100, "specialChars": 15, "hasKeywords": 1, "label": 1 },
+    { "queryLength": 200, "specialChars": 8, "hasKeywords": 1, "label": 1 },
+    { "queryLength": 90, "specialChars": 2, "hasKeywords": 0, "label": 0 },
+    { "queryLength": 50, "specialChars": 0, "hasKeywords": 0, "label": 0 },
+    { "queryLength": 110, "specialChars": 7, "hasKeywords": 1, "label": 1 },
+    { "queryLength": 45, "specialChars": 1, "hasKeywords": 0, "label": 0 },
+    { "queryLength": 130, "specialChars": 12, "hasKeywords": 1, "label": 1 },
+    { "queryLength": 70, "specialChars": 3, "hasKeywords": 0, "label": 0 },
+    { "queryLength": 140, "specialChars": 9, "hasKeywords": 1, "label": 1 },
+    { "queryLength": 80, "specialChars": 1, "hasKeywords": 0, "label": 0 },
+    { "queryLength": 160, "specialChars": 14, "hasKeywords": 1, "label": 1 },
+    { "queryLength": 55, "specialChars": 0, "hasKeywords": 0, "label": 0 }
+]
